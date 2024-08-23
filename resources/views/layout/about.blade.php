@@ -8,23 +8,20 @@
         <p class="mb-0">Badan Pusat Statistik Kabupaten Bogor adalah instansi pemerintah yang bertanggung jawab untuk menyediakan data statistik yang berkualitas bagi masyarakat, pemerintah, dan sektor swasta. </p>
     </div>
     <div class="col-md-6">
-        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/1.png" alt="Dashboard" style="width:95px;" />
-        <h3 class="mt-3 lh-base">Be visible to &quot;like</h3>
-        <p class="mb-0">Strengthen your digital visibility in a universe where everyone is interested in traveling. We help you build your presence without having to lift a finger!</p>
+        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/2.png" alt="Comment" style="width:95px;" />
+        <h3 class="mt-3 lh-base">Visi</h3>
+        <p class="mb-0">Penyedia Data Statistik Berkualitas untuk Indonesia Maju</p>
         </div>
     </div>
     </div>
     <div class="row mb-4">
-    <div class="col-md-6">
-        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/2.png" alt="Comment" style="width:95px;" />
-        <h3 class="mt-3 lh-base">Monitor Online</h3>
-        <p class="mb-0">The platform has multiple functionalities and key features. With our intelligent system, you can approve bookings and monitor everything in your business online.</p>
-        </div>
-    </div>
-    <div class="col-md-6">
+    <div class="">
         <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/3.png" alt="Tailored" style="width:95px;" />
-        <h3 class="mt-3 lh-base">More Income</h3>
-        <p class="mb-0">Being on a digital platform is another sales channel added to strengthen your business. With our insights tools, we analyze your gears performance in any season.</p>
+        <h3 class="mt-3 lh-base">Misi</h3>
+        <p class="mb-0">1. Menyediakan statistik berkualitas yang berstandar nasional dan internasional</p>
+        <p class="mb-0">2. Membina K/L/D/I melalui Sistem Statistik Nasional yang berkesinambungan</p>
+        <p class="mb-0">3. Mewujudkan pelayanan prima di bidang statistik untuk terwujudnya Sistem Statistik Nasional</p>
+        <p class="mb-0">4. Membangun SDM yang unggul dan adaptif berlandaskan nilai profesionalisme, integritas dan amanah</p>
         </div>
     </div>
     </div>

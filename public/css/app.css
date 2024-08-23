@@ -1,1 +1,40 @@
+<style>
+        /* Custom CSS untuk efek hover */
+        .card {
+            border: none;
+            transition: transform 0.3s ease;
+        }
 
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card img {
+            transition: opacity 0.3s ease;
+            opacity: 0;
+        }
+
+        .card:hover img {
+            opacity: 1;
+        }
+
+        .card-body {
+            position: relative;
+            z-index: 2;
+        }
+
+        .card-footer {
+            background-color: transparent;
+            border-top: none;
+        }
+
+        .card-footer .btn {
+            background-color: #f8f9fa;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .card-footer .btn:hover {
+            background-color: #28a745;
+            color: white;
+        }
+    </style>
