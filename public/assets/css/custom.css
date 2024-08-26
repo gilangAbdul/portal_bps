@@ -89,3 +89,53 @@
     background-color: #5c37a0;
     color: #fff;
 }
+
+/* Mobile view adjustments */
+@media (max-width: 768px) {
+    .card {
+        padding: 10px;
+        margin-bottom: 5px; /* Reduce space between rows */
+    }
+
+    .card-body {
+        display: block; /* Stack elements vertically */
+        text-align: left; /* Align text to the left */
+        padding: 0;
+    }
+
+    .card-img-top {
+        width: 40px;
+        height: 40px;
+        margin-right: 0; /* Remove margin-right for stacking */
+    }
+
+    .card-title {
+        font-size: 16px;
+        margin-top: 5px; /* Reduce margin */
+    }
+
+    .card-text {
+        margin-top: 10px; /* Add space between title and description */
+    }
+
+    .btn-custom {
+        padding: 5px 10px;
+        font-size: 16px; /* Reduce button size */
+        display: block; /* Make buttons block-level */
+        width: 100%; /* Full width buttons */
+        margin-top: 10px; /* Add space between description and buttons */
+    }
+    .navbar-nav {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end; /* Mengatur posisi menu ke kanan */
+        width: 100%;
+    }
+    .navbar-collapse {
+        text-align: right; /* Mengatur teks agar rata kanan */
+    }
+    .navbar-collapse.collapse.show {
+      width: 100%;
+    }
+      
+}
