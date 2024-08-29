@@ -31,6 +31,7 @@
             <div class="col-md-9 col-xxl-5 text-md-start text-center py-6 pt-8">
               <h1 class="fs-4 fs-md-5 fs-xxl-4" data-zanim-xs='{"delay":0.3}' data-zanim-trigger="scroll">Coming Soon</h1>
               <p class="fs-1 fs-sm-2" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll">Kami sedang menyiapkan halaman ini</p>
+              <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-md-start mt-5" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll"><a class="btn btn-primary me-1" href="#about" role="button">Mulai</a>
               {{-- <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-md-start mt-5" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll"><a class="btn btn-primary me-1" href="#about" role="button">Mulai</a></div> --}}
             </div>
           </div>

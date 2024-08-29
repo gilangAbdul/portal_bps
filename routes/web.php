@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/coming-soon', function () {
+Route::get('/comingsoon', function () {
     return view('comingsoon');
+});
+
+Route::get('/data_strategis', function () {
+    return view('strategis');
 });

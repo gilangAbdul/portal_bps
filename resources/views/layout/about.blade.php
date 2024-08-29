@@ -1,22 +1,22 @@
 <!-- ============================================-->
 <!-- <section> begin ============================-->
 <section id="about">
-<div class="container">
-    <div class="row mb-4">
-    <div class="col-md-6 h-100 text-center text-md-start p-0 p-md-5 pb-3">
+<div class="container-fluid px-lg-8">
+    <div class="row">
+    <div class="col-md-6 h-100 text-center text-md-start p-3 p-sm-5 pb-3">
         <h2 class="mt-3">Tentang Kami</h2>
         <p class="mb-0">Badan Pusat Statistik Kabupaten Bogor adalah instansi pemerintah yang bertanggung jawab untuk menyediakan data statistik yang berkualitas bagi masyarakat, pemerintah, dan sektor swasta. </p>
     </div>
-    <div class="col-md-6">
-        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/2.png" alt="Comment" style="width:95px;" />
+    <div class="col-md-6 mb-4">
+        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/2.png" alt="Comment" style="width:100px;" />
         <h3 class="mt-3 lh-base">Visi</h3>
         <p class="mb-0">Penyedia Data Statistik Berkualitas untuk Indonesia Maju</p>
         </div>
     </div>
     </div>
-    <div class="row mb-4">
+    <div class="row mb-3">
     <div class="">
-        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/3.png" alt="Tailored" style="width:95px;" />
+        <div class="w-100 h-100 p-5 services-card-shadow rounded-4"><img src="assets/img/icons/3.png" alt="Tailored" style="width:100px;" />
         <h3 class="mt-3 lh-base">Misi</h3>
         <p class="mb-0">1. Menyediakan statistik berkualitas yang berstandar nasional dan internasional</p>
         <p class="mb-0">2. Membina K/L/D/I melalui Sistem Statistik Nasional yang berkesinambungan</p>
