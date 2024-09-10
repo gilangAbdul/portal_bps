@@ -7,8 +7,8 @@
     <!--    Main Content-->
     <!-- ===============================================-->
     <main class="main" id="top">
-        <nav class="navbar navbar-expand-md navbar-light py-3" data-navbar-on-scroll="light">
-            <div class="container-fluid"><a class="navbar-brand" href="/"><img src="{{url('assets/img/gallery/logobpsbogor_dark.png')}}" height="40" alt="logo" /></a>
+        <nav class="navbar navbar-expand-md navbar-light py-3 fixed-top" data-navbar-on-scroll="light">
+            <div class="container"><a class="navbar-brand" href="/"><img src="{{url('assets/img/gallery/logobpsbogor_dark.png')}}" height="40" alt="logo" /></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
               <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base align-items-center">
@@ -24,15 +24,18 @@
       <section class="py-7 py-lg-10" id="home">
         <div class="bg-holder bg-size" style="background-image:url(assets/img/illustration/2.png);background-position:left top;background-size:contain;"></div>
         <!--/.bg-holder-->
-        <div class="bg-holder py-100" style="background-image:url(assets/img/illustration/bg.png);background-position:right top;background-size:contain;"></div>
+        <div class="bg-holder py-95" style="background-image:url(assets/img/illustration/bg.png);background-position:right top;background-size:contain;"></div>
         <!--/.bg-holder-->
         <div class="container">
           <div class="row align-items-center h-100 justify-content-center justify-content-lg-start">
             <div class="col-md-9 col-xxl-5 text-md-start text-center py-6 pt-8">
-              <h1 class="fs-4 fs-md-5 fs-xxl-4" data-zanim-xs='{"delay":0.3}' data-zanim-trigger="scroll">Coming Soon</h1>
-              <p class="fs-1 fs-sm-2" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll">Kami sedang menyiapkan halaman ini</p>
-              <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-md-start mt-5" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll"><a class="btn btn-primary me-1" href="#about" role="button">Mulai</a>
-              {{-- <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-md-start mt-5" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll"><a class="btn btn-primary me-1" href="#about" role="button">Mulai</a></div> --}}
+              <h1 class="fs-4 fs-md-5 fs-xxl-4" data-zanim-xs='{"delay":0.3}' data-zanim-trigger="scroll">Data Strategis</h1>
+              <p class="fs-1 fs-sm-2" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll">BPS Kabupaten Bogor</p>
+              <div class="row" data-zanim-xs='{"delay":0.5}' data-zanim-trigger="scroll">
+                  <a class="btn my-2 btn-primary" style="width: 75%" href="https://bogorkab.bps.go.id/id/infographic" target="_blanks" role="button">Infografis</a>
+                  <a class="btn my-2 btn-primary" style="width: 75%" href="https://bogorkab.bps.go.id/id/publication" target="_blanks" role="button">Publikasi</a>
+                  <a class="btn my-2 btn-primary" style="width: 75%" href="https://bogorkab.bps.go.id/id/query-builder" target="_blanks" role="button">Tabel Dinamis</a>
+              </div>
             </div>
           </div>
         </div>

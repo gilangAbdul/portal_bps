@@ -280,10 +280,10 @@
                                     <h5 class="card-title mb-0">OM-SPAN</h5>
                                 </div>
                                 <p class="text-center card-show">
-                                    SistemAplikasi Online Monitoring ...
+                                    Sistem Aplikasi Online Monitoring ...
                                 </p>
                                 <p class="card-text">
-                                    SistemAplikasi Online Monitoring Sistem Perbendaharaan dan Anggaran Negara
+                                    Sistem Aplikasi Online Monitoring Sistem Perbendaharaan dan Anggaran Negara
                                 </p>
                                 <a href="https://spanint.kemenkeu.go.id" target="_blank" class="btn btn-custom">Rincian</a>
                             </div>
@@ -300,7 +300,7 @@
                                     Pengolahan Data Internal ...
                                 </p>
                                 <p class="card-text">
-                                    Pengoalhan Data Internal BPS Kabupaten Bogor
+                                    Pengolahan Data Internal BPS Kabupaten Bogor
                                 </p>
                                 <a href="https://pengolahan.bps.go.id/" target="_blank" class="btn btn-custom">Rincian</a>
                             </div>

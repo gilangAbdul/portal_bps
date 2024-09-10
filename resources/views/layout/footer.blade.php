@@ -7,9 +7,10 @@
           <p class="text-light mt-5">bps3201@bps.go.id</p>
           <div class="d-flex">
             {{-- <a href="#!"><img class="me-xl-3 me-1" src="assets/img/gallery/linkedin-line1.svg" alt="in" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a>
-            {{-- <a href="#!"><img class="me-xl-3 me-1" src="assets/img/gallery/facebook-line1.svg" alt="fb" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a>
             <a href="#!"><img class="me-xl-3 me-1" src="assets/img/gallery/twitter-line1.svg" alt="twitter" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a> --}}
-            <a href="https://www.instagram.com/bpskabbogor/"><img class="me-xl-3 me-1" src="assets/img/gallery/instagram-line1.svg" alt="instragram" width:'30px'="width:'30px'" height:'30px'="height:'30px'" /></a>
+            <a href="https://www.instagram.com/bpskabbogor/" target="_blank"><img class="me-xl-3 me-1" src="assets/img/gallery/instagram-line1.svg" alt="instragram" width:'30px'="width:'30px'" height:'30px'="height:'30px'" /></a>
+            <a href="https://www.facebook.com/bpskabbogor/" target="_blank"><img class="me-xl-3 me-1" src="assets/img/gallery/facebook-line1.svg" alt="fb" width:"'20px'="width:'20px'" height:"'20px'="height:'20px'" /></a>
+            {{-- <a href="#!"><img class="me-xl-3 me-1" src="assets/img/gallery/youtube.svg" alt="fb" width:'20px'="width:'5px'" height:'20px'="height:'5px'" /></a> --}}
           </div>
         </div>
         <div class="col pt-4">
@@ -19,7 +20,7 @@
                     <ul class="list-unstyled text-light mb-md-4 mb-lg-0">
                     <li class="lh-lg"><a class="text-500 footer-link text-light" href="#about">Tentang Kami</a></li>
                     <li class="lh-lg"><a class="text-500 footer-link text-light" href="#aplikasi">Aplikasi Sistem</a></li>
-                    <li class="lh-lg"><a class="text-500 footer-link text-light" href="#contact">Hubungi Kami</a></li>
+                    <li class="lh-lg"><a class="text-500 footer-link text-light" href="#cta">Hubungi Kami</a></li>
                     </ul>
                 </div>
                 <div class="col-md-6 col-lg-5 mb-3 text-left">
@@ -44,10 +45,11 @@
       <div class="container">
         <div class="row justify-content-md-between justify-content-evenly py-3">
           <div class="col-12 col-sm-8 col-md-6 col-lg-auto text-center">
-            <p class="fs--1 my-2 fw-bold text-200">&copy; BPS Kabupaten Bogor 2024</p>
+            <p class="fs--1 my-2 text-200">&copy; BPS Kabupaten Bogor 2024</p>
           </div>
         </div>
       </div><!-- end of .container-->
-    </section><!-- <section> close ============================-->
+    </section>
+    <!-- <section> close ============================-->
     <!-- ============================================-->
 </section>

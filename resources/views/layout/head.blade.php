@@ -2,7 +2,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="assets/img/gallery/logobps.png">
 
     <!-- ===============================================-->
     <!--    Document Title-->
@@ -12,8 +11,7 @@
     <!-- ===============================================-->
     <!--    Favicons-->
     <!-- ===============================================-->
-    <link rel="icon" sizes="180x180" href="{{url('assets/img/gallery/logobps.png')}}">
-    <link rel="icon" type="image/png" sizes="24x24" href="{{url('assets/img/gallery/logobps.png')}}">
+    <link rel="icon" href="{{url('assets/img/icons/bps.png')}}">
     <link rel="manifest" href="{{url('assets/img/favicons/manifest.json')}}">
     <meta name="msapplication-TileImage" content="{{url('assets/img/favicons/mstile-150x150.png')}}">
     <meta name="theme-color" content="#ffffff">

@@ -8,7 +8,7 @@
     <!-- ===============================================-->
     <main class="main" id="top">
       @include('layout.navbar')
-      <section class="py-7" id="home">
+      <section class="py-7 py-lg-10" id="home">
         <div class="bg-holder bg-size" style="background-image:url(assets/img/illustration/2.png);background-position:left top;background-size:contain;"></div>
         <!--/.bg-holder-->
         <div class="bg-holder py-100" style="background-image:url(assets/img/illustration/bg.png);background-position:right top;background-size:contain;"></div>
@@ -35,3 +35,8 @@
   </body>
 
 </html>
+
+{{--
+Created By : MAGANG STIS BPS KAB BOGOR THN. 2024
+CP : GILANG (089506608135)
+--}}
